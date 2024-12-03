@@ -1,0 +1,8 @@
+{
+    "name": "firefox_profile_switcher",
+    "description": "Example host for native messaging",
+    "path": "/etc/firefox-profile-switcher/main.py",
+    "type": "stdio",
+    "allowed_extensions": [ "firefox-profile-switcher@diddy.org" ]
+  }
+  
